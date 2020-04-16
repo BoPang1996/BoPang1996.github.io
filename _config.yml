@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bo Pang"
 title_separator          : "-"
 name                     : &name "Bo Pang"
-description              : &description "A little person always doing little things."
+description              : &description "Ph.D student of computer vision, Shanghai Jiao Tong University"
 url                      : https://BoPang1996.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BoPang1996/BoPang1996.github.io"
@@ -53,8 +53,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &Bo__Pang 
+#twitter:
+#  username               : &Bo__Pang
 #facebook:
 #  username               : 
 # app_id                 :
@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Bo Pang"
   avatar           : "profile.png"
-  bio              : "A little person always doing little things"
+  bio              : "Ph.D student of computer vision, Shanghai Jiao Tong University"
   location         : "Shanghai"
   employer         : 
-#  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Z1PlwL4AAAAJ"
+  email            : "pangbo@sjtu.edu.cn"
   uri              : 
   bitbucket        :
   codepen          :
@@ -97,13 +97,13 @@ author:
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-4521-6369"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Bo__Pang "
+  #twitter          : "Bo__Pang "
   vine             :
   weibo            :
   xing             :
