@@ -1,0 +1,21 @@
+=====================
+Search Algorithm:
+=====================
+1. DARTS: DIFFERENTIABLE ARCHITECTURE SEARCH
+2. Regularized Evolution for Image Classifier Architecture Search
+3. NEURAL ARCHITECTURE SEARCH WITH REINFORCEMENT LEARNING
+
+=====================
+Search Space:
+=====================
+1. MnasNet: Platform-Aware Neural Architecture Search for Mobile
+2. Designing Network Design Spaces
+3. Searching for MobileNetV3
+4. EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
+
+=====================
+Video model NAS:
+=====================
+1. Tiny Video Networks
+2. AssembleNet: Searching for Multi-Stream Neural Connectivity in Video Architectures
+3. Evolving Space-Time Neural Architectures for Videos
