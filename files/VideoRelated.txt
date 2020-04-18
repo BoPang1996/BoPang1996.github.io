@@ -1,0 +1,82 @@
+************************************
+- Action Recognition
+  """
+  这个任务相当于图片级别的image recognition，任务目标是输入一个视频，输出一个label，该label指明视频中人物在做的动作。
+  在这个任务中，输入的视频需要经过剪辑，一般来说画面中只有一个人，一段视频只包括一个动作。当然不排除一群人做同一个动作，比如跳舞，拥抱，握手等。
+  """
+  - dataset
+    [1] UCF-101
+    [2] HMDB
+    [3] Kinetics （目前常用）
+    [4] Charades （目前常用）
+
+  - methods （*越多，越重要）
+    [1]* Two-Stream Convolutional Networks for Action Recognition in Videos, Zisserman 他们组的
+    [2]**3D Convolutional Neural Networks for Human Action Recognition Shuiwang, 第一个做3D卷积的
+    [3] Long-term Recurrent Convolutional Networks for Visual Recognition and Description, RNN方法
+    [4] Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting，卷积RNN方法
+    [5]** Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset, 奠定3D卷积在视频领域霸主地位的文章
+    [6]** Non-local Neural Networks, 何凯明组进军video领域的开山作品，该文章其实是把NLP当时大火的self-attention改进引进到了vision领域，感兴趣的话去看 Attention is all you need 这篇文章，还有查一下Bert相关信息。
+    [7]** SlowFast Networks for Video Recognition, 凯明在video领域的又一力作。
+    [8]* Long-Term Feature Banks for Detailed Video Understanding, 凯明的文章，和[7]基本上同时做出来的，方法不是很优雅，主要看一下他想要解决什么问题。
+    [9]* Video Action Transformer Network, Zisserman 组做的，算是另一个self-attention相关的方法
+    [10] Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification, 一篇分析文章，帮助理解3D卷积，结合[5][6]看，你会发现[5]和[6]的3D卷积的不同。
+    [11] Temporal Segment Networks: Towards Good Practices for Deep Action Recognition, 补充一个，解决视频太长问题的经典方法。
+
+
+************************************
+- Action Spatial Detection
+  """
+  相当于图片级别的object detection，画面中有多个人，任务目标是使用bounding box（bbox）指出人物在画面中的位置，并对动作进行分类。
+  这个任务现在的定义还不统一，有些数据集是每一帧都标注了人物的bbox，每一帧都需要分类，当然模型可以对多个帧同时分类；有些数据是只标注了关键帧的bbox，认为其他帧是提供辅助信息的
+  """
+  - dataest
+    [1] AVA (目前常用）
+    [2] UCF-24
+    [3] Something-Something (提供的是物体的bbox，不是人）
+    [4] JHMDB (标注的是关节点）
+
+  - methods
+    [1] Actionness Estimation Using Hybrid Fully Convolutional Networks, attentionness 概念，其实是一种attention，而且是弱监督的。
+    [2]** SlowFast Networks for Video Recognition, 看一下他的detection的流程
+    [3]* Action Tubelet Detector for Spatio-Temporal Action Localization, 直接检测3D tube的方法
+    [4] Tube Convolutional Neural Network (T-CNN) for Action Detection in Videos, 同样是3D tube 的方法，我挺喜欢这种思路的，目前的研究也着重这个思路。
+
+
+************************************
+- Action temporal Detection
+  """ 
+  视频比图片多了一个时间维度，所以detection这个任务也可以在时间维度上开展，即指出一个动作的开始时间和结束时间。这个任务中，一般一个视频中同一时间只有一个人（一组人做同一个动作）。
+  """
+  - dataset
+    [1] THUMOS14
+    [2] ActivityNet
+    [3] Charades
+
+  -methods
+    [1] R-C3D: Region Convolutional 3D Network for Temporal Activity Detection, 使用类似于RCNN的提取proposal的方法。
+    [2] Temporal Action Detection with Structured Segment Networks, 使proposal更准确的方法
+    [3] Single shot temporal action detection, 基于SSD这种one stage detector做的检测器
+    [4] Temporal Action Localization in Untrimmed Videos via Multi-stage CNNs
+
+
+************************************
+- Tracking
+  """
+  视频领域中独有的任务。目前分为两种，一种是单目标跟踪，一种是多目标跟踪。
+  前者的设定是给出第一帧的一个bbox，在接下来的帧中跟踪这个给定的bbox。
+  后者是同时跟踪多个目标，一般给定需要跟踪的类别，比如人或者车，然后同时将画面中所有的目标同时跟踪下来。一般采用先检测目标位置，之后进行匹配的策略。
+  因为我只做多目标检测，所以这里只列一些多目标检测的文章供参考。
+  """ 
+
+  -dataset (只列出了多目标检测的）
+    [1] MOTChallenge (目前常用）
+    [2] KITTI car/pedestrian
+
+  - methods
+    [1] Deep Affinity Network for Multiple Object Tracking, 先检测，后匹配
+    [2] Tracking the Trackers: An Analysis of the State of the Art in Multiple Object Tracking, 一篇17年的survey
+    [3] Tracking The Untrackable: Learning to Track Multiple Cues with Long-Term Dependencies, RNN方法
+    [4] Tracking without bells and whistles, 根据前一帧预测下一帧
+    [5] Unsupervised Deep Tracking, 这是一个单目标检测的文章，我觉得idea挺有意思的
+    [6] Towards Real-Time Multi-Object Tracking
