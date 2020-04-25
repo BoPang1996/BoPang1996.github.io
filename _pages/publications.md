@@ -71,3 +71,17 @@ Pre-Print
 <p>[paper]</p>
 </div>
 </div>
+
+<hr width="100%"/>
+<div class="paper">
+<div class="pimg"> <img src="/img_content/alphaction.png" width="200" height="140"></div>
+<div class="ptitle">Asynchronous Interaction Aggregation for Action Detection</div>
+<div class="pauthors">Jiajun Tang, Jin Xia, Xinzhi Mu, <b>Bo Pang</b>, Cewu Lu</div>
+<div class="pvenue">
+<p>Submitted to ECCV, 2020</p>
+<p>[<a href="https://arxiv.org/abs/2004.07485">paper</a>]
+   [<a href="https://github.com/MVIG-SJTU/AlphAction">code</a>]
+</p>
+</div>
+</div>
+
