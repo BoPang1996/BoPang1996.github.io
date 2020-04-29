@@ -15,8 +15,27 @@ My research interests are in computer vision, especially in video action recogni
 
 Now, I'm a research intern at institute of media technology of Huawei Technologies Co Ltd.
 
+News
+======
+* 【2020.4.29】An article paper is published in [Nature Machine Intelligence](https://www.nature.com/natmachintell/). The paper is [here](https://www.nature.com/articles/s42256-020-0168-3).
+And a read-only [link](https://rdcu.be/b3OIN ) is provided.
+
 Publications
 ======
+<hr width="100%"/>
+<div class="paper">
+<div class="pimg"> <img src="/img_content/scs.png" width="200" height="140"></div>
+<div class="ptitle"> Complex sequential understanding through the awareness of spatial and temporal concepts</div>
+<div class="pauthors"> <b>Bo Pang</b>, Kaiwen Zha, Hanwen Cao, Jiajun Tang, Minghui Yu, Cewu Lu</div>
+<div class="pvenue">
+<p>Nature Machine Intelligence</p>
+<p>
+[<a href="https://www.nature.com/articles/s42256-020-0168-3">paper</a>]
+[<a href="https://rdcu.be/b3OIN">Read-Only Link</a>]
+</p>
+</div>
+</div>
+
 <hr width="100%"/>
 <div class="paper">
 <div class="pimg"> <img src="/img_content/tubetk.png" width="200" height="140"></div>

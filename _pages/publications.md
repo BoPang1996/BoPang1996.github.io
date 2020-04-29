@@ -13,6 +13,20 @@ Publications
 
 <hr width="100%"/>
 <div class="paper">
+<div class="pimg"> <img src="/img_content/scs.png" width="200" height="140"></div>
+<div class="ptitle"> Complex sequential understanding through the awareness of spatial and temporal concepts</div>
+<div class="pauthors"> <b>Bo Pang</b>, Kaiwen Zha, Hanwen Cao, Jiajun Tang, Minghui Yu, Cewu Lu</div>
+<div class="pvenue">
+<p>Nature Machine Intelligence</p>
+<p>
+[<a href="https://www.nature.com/articles/s42256-020-0168-3">paper</a>]
+[<a href="https://rdcu.be/b3OIN">Read-Only Link</a>]
+</p>
+</div>
+</div>
+
+<hr width="100%"/>
+<div class="paper">
 <div class="pimg"> <img src="/img_content/tubetk.png" width="200" height="140"></div>
 <div class="ptitle"> TubeTK: Adopting Tubes to Track Multi-Object in a One-Step Training Model</div>
 <div class="pauthors"> <b>Bo Pang</b>, Yizhuo Li, Yifan Zhang, Muchen Li, Cewu Lu</div>
