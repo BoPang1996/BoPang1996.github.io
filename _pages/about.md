@@ -95,3 +95,14 @@ Projects
 <p>[<a href="https://github.com/BoPang1996/TubeTK">Page</a>]</p>
 </div>
 </div>
+
+<hr width="100%"/>
+<div class="paper">
+<div class="pimg"> <img src="/img_content/AlphaVideo.png" width="200" height="140"></div>
+<div class="ptitle"> AlphaVideo: Video models from MVIG</div>
+<div class="pauthors"> <b>Bo Pang</b>, Jiajun Tang, Cewu Lu</div>
+<div class="pvenue">
+<p></p>
+<p>[<a href="https://alpha-video.github.io/">Page</a>]</p>
+</div>
+</div>
