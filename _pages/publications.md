@@ -56,7 +56,7 @@ Publications
 <div class="pauthors"> <b>Bo Pang</b>, Kaiwen Zha, Hanwen Cao, Chen Shi, Cewu Lu</div>
 <div class="pvenue">
 <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019</p>
-<p>[<a href="https://zpascal.net/cvpr2019/Pang_Deep_RNN_Framework_for_Visual_Sequential_Applications_CVPR_2019_paper.pdf">paper</a>]
+<p>[<a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Pang_Deep_RNN_Framework_for_Visual_Sequential_Applications_CVPR_2019_paper.pdf">paper</a>]
    [<a href="https://github.com/BoPang1996/Deep-RNN-Framework">Code</a>]</p>
 </div>
 </div>
