@@ -22,9 +22,9 @@ Research experience
   
 Publications
 ======
-My Publications are [here](https://bopang1996.github.io/publications/).
+* My Publications are [here](https://bopang1996.github.io/publications/).
 
-For more information please go to my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=Z1PlwL4AAAAJ).
+* For more information please go to my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=Z1PlwL4AAAAJ).
 
 Service
 ======
