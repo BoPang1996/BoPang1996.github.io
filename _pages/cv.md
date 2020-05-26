@@ -11,7 +11,7 @@ redirect_from:
 Education
 ======
 * B.S. in Shanghai Jiao Tong University, 2014
-* ph.D in Shanghai Jiao Tong University, Pursing
+* ph.D in Shanghai Jiao Tong University, Pursuing
 
 Research experience
 ======
