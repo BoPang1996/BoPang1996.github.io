@@ -21,6 +21,7 @@ Publications
 <p>
 [<a href="https://www.nature.com/articles/s42256-020-0168-3">paper</a>]
 [<a href="https://rdcu.be/b3OIN">Read-Only Link</a>]
+[<a href="https://arxiv.org/pdf/2006.00212.pdf">Arxiv</a>]
 </p>
 </div>
 </div>
