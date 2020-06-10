@@ -33,7 +33,7 @@ Publications
 <div class="pauthors"> <b>Bo Pang</b>, Yizhuo Li, Yifan Zhang, Muchen Li, Cewu Lu</div>
 <div class="pvenue">
 <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020 (<font color="red"><b>oral</b></font>)</p>
-<p>[<a href="https://bopang1996.github.io/posts/2020/04/tubeTKpaper/">paper</a>]
+<p>[<a href="http://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_TubeTK_Adopting_Tubes_to_Track_Multi-Object_in_a_One-Step_Training_CVPR_2020_paper.pdf">paper</a>]
    [<a href="https://github.com/BoPang1996/TubeTK">code</a>]</p>
 </div>
 </div>
