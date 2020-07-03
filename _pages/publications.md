@@ -96,7 +96,7 @@ Pre-Print
 <div class="ptitle"> TDAF: Top-Down Attention Framework for Vision Tasks</div>
 <div class="pauthors"> <b>Bo Pang</b>, Yizhuo Li, Jiefeng Li, Muchen Li, Hanwen Cao, Cewu Lu</div>
 <div class="pvenue">
-<p>Submitted to ECCV, 2020</p>
+<p></p>
 <p>[paper]</p>
 </div>
 </div>
