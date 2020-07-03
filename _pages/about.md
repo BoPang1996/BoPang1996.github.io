@@ -98,6 +98,8 @@ Publications
 </div>
 </div>
 
+<hr width="100%"/>
+
 Projects
 ======
 <hr width="100%"/>
