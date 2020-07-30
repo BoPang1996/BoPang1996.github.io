@@ -87,6 +87,19 @@ Publications
 </div>
 
 <hr width="100%"/>
+<div class="paper">
+<div class="pimg"> <img src="/img_content/asap.png" width="200" height="140"></div>
+<div class="ptitle">ASAP-Net: Attention and Structure Aware Point Cloud Sequence Segmentation</div>
+<div class="pauthors">Hanwen Cao, Yongyi Lu, <b>Bo Pang</b>, Cewu Lu, Alan Yuille, Gongshen Liu</div>
+<div class="pvenue">
+<p>British Machine Vision Conference 2020 (BMVC), 2020</p>
+<p>[<a href="https://arxiv.org/abs/2004.07485">paper</a>]
+   [<a href="https://github.com/MVIG-SJTU/AlphAction">code</a>]
+</p>
+</div>
+</div>
+
+<hr width="100%"/>
 
 Pre-Print
 ======
