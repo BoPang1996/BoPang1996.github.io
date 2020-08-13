@@ -93,7 +93,7 @@ Publications
 <div class="pauthors">Hanwen Cao, Yongyi Lu, <b>Bo Pang</b>, Cewu Lu, Alan Yuille, Gongshen Liu</div>
 <div class="pvenue">
 <p>British Machine Vision Conference 2020 (BMVC), 2020</p>
-<p>[paper]
+<p>[<a href="https://arxiv.org/pdf/2008.05149.pdf">paper</a>]
 </p>
 </div>
 </div>
