@@ -111,6 +111,18 @@ Publications
 </div>
 
 <hr width="100%"/>
+<div class="paper">
+<div class="pimg"> <img src="/img_content/eve.png" width="200" height="140"></div>
+<div class="ptitle">Efficient 3D Video Engine Using Frame Redundancy</div>
+<div class="pauthors">Gao Peng, <b>Bo Pang</b>, Cewu Lu</div>
+<div class="pvenue">
+<p>Winter Conference on Applications of Computer Vision 2021 (WACV), 2021</p>
+<p>[paper]
+</p>
+</div>
+</div>
+
+<hr width="100%"/>
 
 Projects
 ======
