@@ -13,6 +13,19 @@ Publications
 
 <hr width="100%"/>
 <div class="paper">
+<div class="pimg"> <img src="/img_content/tdaf.png" width="200" height="140"></div>
+<div class="ptitle"> TDAF: Top-Down Attention Framework for Vision Tasks</div>
+<div class="pauthors"> <b>Bo Pang</b>, Yizhuo Li, Jiefeng Li, Muchen Li, Hanwen Cao, Cewu Lu</div>
+<div class="pvenue">
+<p>AAAI Conference on Artificial Intelligence (AAAI), 2021</p>
+<p>
+[paper]
+</p>
+</div>
+</div>
+
+<hr width="100%"/>
+<div class="paper">
 <div class="pimg"> <img src="/img_content/scs.png" width="200" height="140"></div>
 <div class="ptitle"> Complex sequential understanding through the awareness of spatial and temporal concepts</div>
 <div class="pauthors"> <b>Bo Pang</b>, Kaiwen Zha, Hanwen Cao, Jiajun Tang, Minghui Yu, Cewu Lu</div>
@@ -114,14 +127,4 @@ Publications
 
 Pre-Print
 ======
-<hr width="100%"/>
-<div class="paper">
-<div class="pimg"> <img src="/img_content/tdaf.png" width="200" height="140"></div>
-<div class="ptitle"> TDAF: Top-Down Attention Framework for Vision Tasks</div>
-<div class="pauthors"> <b>Bo Pang</b>, Yizhuo Li, Jiefeng Li, Muchen Li, Hanwen Cao, Cewu Lu</div>
-<div class="pvenue">
-<p></p>
-<p>[paper]</p>
-</div>
-</div>
 
