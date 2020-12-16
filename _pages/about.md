@@ -32,7 +32,7 @@ Publications
 <div class="pvenue">
 <p>AAAI Conference on Artificial Intelligence (AAAI), 2021</p>
 <p>
-[paper]
+[<a href="https://arxiv.org/abs/2012.07248">paper</a>]
 </p>
 </div>
 </div>
