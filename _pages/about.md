@@ -71,7 +71,7 @@ Publications
 <div class="pauthors"> <b>Bo Pang</b>, Kaiwen Zha, Yifan Zhang, Cewu Lu</div>
 <div class="pvenue">
 <p>AAAI Conference on Artificial Intelligence (AAAI), 2020</p>
-<p>[<a href="https://www.aaai.org/Papers/AAAI/2020GB/AAAI-PangB.53.pdf">paper</a>]</p>
+<p>[<a href="https://ojs.aaai.org//index.php/AAAI/article/view/6855">paper</a>]</p>
 </div>
 </div>
 
