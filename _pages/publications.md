@@ -118,7 +118,7 @@ Publications
 <div class="pauthors">Gao Peng, <b>Bo Pang</b>, Cewu Lu</div>
 <div class="pvenue">
 <p>Winter Conference on Applications of Computer Vision 2021 (WACV), 2021</p>
-<p>[paper]
+<p>[<a href="https://openaccess.thecvf.com/content/WACV2021/papers/Peng_Efficient_3D_Video_Engine_Using_Frame_Redundancy_WACV_2021_paper.pdf">paper</a>]
 </p>
 </div>
 </div>
