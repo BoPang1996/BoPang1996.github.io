@@ -28,4 +28,4 @@ Publications
 
 Service
 ======
-* Reviewer of NeuroComputing, TIP, BMVC, CVPR.
+* Reviewer of CVPR, BMVC, TPAMI, TIP, NeuroComputing.
