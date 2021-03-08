@@ -16,7 +16,7 @@ Publications
 <div class="ptitle">PGT: A Progressive Method for Training Models on Long Videos</div>
 <div class="pauthors"> <b>Bo Pang</b>, Gao Peng, Yizhuo Li, Cewu Lu</div>
 <div class="pvenue">
-<p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021</p>
+<p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021 (<font color="red"><b>oral</b></font>)</p>
 <p>[paper]
    [code]</p>
 </div>
