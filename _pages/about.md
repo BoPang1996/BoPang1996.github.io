@@ -31,7 +31,7 @@ Publications
 <div class="pauthors"> <b>Bo Pang</b>, Gao Peng, Yizhuo Li, Cewu Lu</div>
 <div class="pvenue">
 <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021 (<font color="red"><b>oral</b></font>)</p>
-<p>[paper]
+<p>[<a href="https://arxiv.org/pdf/2103.11313.pdf">paper</a>]
    [code]</p>
 </div>
 </div>
