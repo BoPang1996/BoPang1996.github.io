@@ -18,7 +18,7 @@ Publications
 <div class="pvenue">
 <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021 (<font color="red"><b>oral</b></font>)</p>
 <p>[<a href="https://arxiv.org/pdf/2103.11313.pdf">paper</a>]
-   [code]</p>
+   [<a href="https://github.com/BoPang1996/PGT">code</a>]</p>
 </div>
 </div>
 
