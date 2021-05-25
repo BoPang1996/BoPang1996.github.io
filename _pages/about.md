@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Ph.D student of [computer science](https://en.wikipedia.org/wiki/Computer_science), [Shanghai Jiao Tong University](https://en.wikipedia.org/wiki/Shanghai_Jiao_Tong_University). 
 I am a member of [MVIGLab](http://mvig.sjtu.edu.cn/) mentored by Pro. [Cewu Lu](http://mvig.sjtu.edu.cn/).
-My research interests are in computer vision, especially in video action recognition and multi-object tracking.
+My research interests are in computer vision, especially in video understanding and unsupervised learning.
 
 Now, I'm a research intern at institute of media technology of Huawei Technologies Co Ltd.
 
