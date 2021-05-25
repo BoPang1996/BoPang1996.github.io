@@ -17,6 +17,7 @@ Now, I'm a research intern at institute of media technology of Huawei Technologi
 
 News
 ======
+* 【2021.3】Paper "PGT: A Progressive Method for Training Models on Long Videos" is accepted as an oral paper in CVPR-2021.
 * 【2020.6.30】Paper "Complex sequential understanding through the awareness of spatial and temporal concepts" won the World Artifical Intelligence Conference Youth Outstanding Paper Award.
 * 【2020.5.6】TubeTK, a one-stage system for multi-object tracking is open-sourced [here](https://github.com/BoPang1996/TubeTK). 
 * 【2020.4.29】An article paper is published in [Nature Machine Intelligence](https://www.nature.com/natmachintell/). The paper is [here](https://www.nature.com/articles/s42256-020-0168-3).
