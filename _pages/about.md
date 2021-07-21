@@ -56,7 +56,7 @@ Publications
 <div class="ptitle"> Complex sequential understanding through the awareness of spatial and temporal concepts</div>
 <div class="pauthors"> <b>Bo Pang</b>, Kaiwen Zha, Hanwen Cao, Jiajun Tang, Minghui Yu, Cewu Lu</div>
 <div class="pvenue">
-<p>Nature Machine Intelligence</p>
+<p><font color="red"><b>Nature</b></font> <font color="red">Machine Intelligence</font></p>
 <p>
 [<a href="https://www.nature.com/articles/s42256-020-0168-3">paper</a>]
 [<a href="https://rdcu.be/b3OIN">Read-Only Link</a>]
