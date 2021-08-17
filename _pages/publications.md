@@ -12,6 +12,18 @@ Publications
 =======
 <hr width="100%"/>
 <div class="paper">
+<div class="pimg"> <img src="/img_content/RLE.png" width="200" height="140"></div>
+<div class="ptitle">Human Pose Regression with Residual Log-likelihood Estimation</div>
+<div class="pauthors"> Jiefeng Li, Siyuan Bian, Ailing Zeng, Can Wang, <b>Bo Pang</b>, Wentao Liu, Cewu Lu</div>
+<div class="pvenue">
+<p> IEEE International Conference on Computer Vision (ICCV), 2021 (<font color="red"><b>oral</b></font>)</p>
+<p>[<a href="https://arxiv.org/pdf/2107.11291.pdf">paper</a>]
+   [<a href="https://github.com/Jeff-sjtu/res-loglikelihood-regression">code</a>]</p>
+</div>
+</div>
+
+<hr width="100%"/>
+<div class="paper">
 <div class="pimg"> <img src="/img_content/PGT.png" width="200" height="140"></div>
 <div class="ptitle">PGT: A Progressive Method for Training Models on Long Videos</div>
 <div class="pauthors"> <b>Bo Pang</b>, Gao Peng, Yizhuo Li, Cewu Lu</div>
