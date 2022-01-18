@@ -27,6 +27,17 @@ Publications
 ======
 <hr width="100%"/>
 <div class="paper">
+<div class="pimg"> <img src="/img_content/cacl.png" width="200" height="140"></div>
+<div class="ptitle">Unsupervised Representation for Semantic Segmentation by Implicit Cycle-Attention Contrastive Learning</div>
+<div class="pauthors"> <b>Bo Pang</b>, Yizhuo Li, Yifan Zhang, Gao Peng, Jiajun Tang, Kaiwen Zha, Jiefeng Li, Cewu Lu</div>
+<div class="pvenue">
+<p>AAAI Conference on Artificial Intelligence (AAAI), 2022</p>
+<p>[<a href="">paper</a>]</p>
+</div>
+</div>
+
+<hr width="100%"/>
+<div class="paper">
 <div class="pimg"> <img src="/img_content/RLE.png" width="200" height="140"></div>
 <div class="ptitle">Human Pose Regression with Residual Log-likelihood Estimation</div>
 <div class="pauthors"> Jiefeng Li, Siyuan Bian, Ailing Zeng, Can Wang, <b>Bo Pang</b>, Wentao Liu, Cewu Lu</div>
