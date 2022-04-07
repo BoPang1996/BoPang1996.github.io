@@ -12,6 +12,18 @@ Publications
 =======
 <hr width="100%"/>
 <div class="paper">
+<div class="pimg"> <img src="/img_content/RegProxy.png" width="200" height="140"></div>
+<div class="ptitle">Semantic Segmentation by Early Region Proxy</div>
+<div class="pauthors"> Yifan Zhang, <b>Bo Pang</b>, Cewu Lu</div>
+<div class="pvenue">
+<p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022</p>
+<p>[<a href="https://arxiv.org/abs/2203.14043">paper</a>]
+   [<a href="https://github.com/YiF-Zhang/RegionProxy">code</a>]</p>
+</div>
+</div>
+
+<hr width="100%"/>
+<div class="paper">
 <div class="pimg"> <img src="/img_content/cacl.png" width="200" height="140"></div>
 <div class="ptitle">Unsupervised Representation for Semantic Segmentation by Implicit Cycle-Attention Contrastive Learning</div>
 <div class="pauthors"> <b>Bo Pang</b>, Yizhuo Li, Yifan Zhang, Gao Peng, Jiajun Tang, Kaiwen Zha, Jiefeng Li, Cewu Lu</div>
