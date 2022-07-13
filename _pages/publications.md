@@ -12,6 +12,18 @@ Publications
 =======
 <hr width="100%"/>
 <div class="paper">
+<div class="pimg"> <img src="/img_content/smog.png" width="200" height="140"></div>
+<div class="ptitle">Unsupervised Visual Representation Learning by Synchronous Momentum Grouping</div>
+<div class="pauthors"> <b>Bo Pang</b>, Yifan Zhang, Yaoyi Li, Jia Cai, Cewu Lu</div>
+<div class="pvenue">
+<p>European Conference on Computer Vision (ECCV), 2022</p>
+<p>[<a href="">paper</a>]
+   [<a href="https://github.com/BoPang1996/SMoG">code</a>]</p>
+</div>
+</div>
+
+<hr width="100%"/>
+<div class="paper">
 <div class="pimg"> <img src="/img_content/RegProxy.png" width="200" height="140"></div>
 <div class="ptitle">Semantic Segmentation by Early Region Proxy</div>
 <div class="pauthors"> Yifan Zhang, <b>Bo Pang</b>, Cewu Lu</div>
