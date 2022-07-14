@@ -17,7 +17,7 @@ Publications
 <div class="pauthors"> <b>Bo Pang</b>, Yifan Zhang, Yaoyi Li, Jia Cai, Cewu Lu</div>
 <div class="pvenue">
 <p>European Conference on Computer Vision (ECCV), 2022</p>
-<p>[<a href="">paper</a>]
+<p>[<a href="https://arxiv.org/abs/2207.06167">paper</a>]
    [<a href="https://github.com/BoPang1996/SMoG">code</a>]</p>
 </div>
 </div>
