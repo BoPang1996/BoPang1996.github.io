@@ -18,7 +18,7 @@ Publications
 <div class="pvenue">
 <p>European Conference on Computer Vision (ECCV), 2022</p>
 <p>[<a href="https://arxiv.org/abs/2207.06167">paper</a>]
-   [<a href="https://github.com/BoPang1996/SMoG">code</a>]</p>
+   [<a href="https://bopang1996.github.io/files/SMoG_code.zip">code</a>]</p>
 </div>
 </div>
 
