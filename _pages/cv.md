@@ -8,4 +8,4 @@ redirect_from:
 
 {% include base_path %}
 
-Find my CV [here](https://bopang1996.github.io/files/BoPang_CV_2020.pdf).
+Find my CV [here](https://bopang1996.github.io/files/BoPang_CV_2022.pdf).
