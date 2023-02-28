@@ -12,6 +12,19 @@ Publications
 =======
 <hr width="100%"/>
 <div class="paper">
+<div class="pimg"> <img src="/img_content/tricc.png" width="200" height="140"></div>
+<div class="ptitle">Unsupervised 3D Point Cloud Representation Learning by Triangle Constrained
+Contrast for Autonomous Driving</div>
+<div class="pauthors"> <b>Bo Pang</b>, Hongchi Xia, Cewu Lu</div>
+<div class="pvenue">
+<p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023</p>
+<p>[<a href="">paper</a>]
+   [<a href="">code</a>]</p>
+</div>
+</div>
+
+<hr width="100%"/>
+<div class="paper">
 <div class="pimg"> <img src="/img_content/smog.png" width="200" height="140"></div>
 <div class="ptitle">Unsupervised Visual Representation Learning by Synchronous Momentum Grouping</div>
 <div class="pauthors"> <b>Bo Pang</b>, Yifan Zhang, Yaoyi Li, Jia Cai, Cewu Lu</div>
