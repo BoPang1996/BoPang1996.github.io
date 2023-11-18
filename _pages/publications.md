@@ -18,7 +18,7 @@ Contrast for Autonomous Driving</div>
 <div class="pauthors"> <b>Bo Pang</b>, Hongchi Xia, Cewu Lu</div>
 <div class="pvenue">
 <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023</p>
-<p>[<a href="">paper</a>]
+<p>[<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Pang_Unsupervised_3D_Point_Cloud_Representation_Learning_by_Triangle_Constrained_Contrast_CVPR_2023_paper.pdf">paper</a>]
    [<a href="">code</a>]</p>
 </div>
 </div>
