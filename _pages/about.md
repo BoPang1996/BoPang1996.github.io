@@ -70,7 +70,7 @@ Contrast for Autonomous Driving</div>
 <div class="pauthors"> <b>Bo Pang</b>, Yizhuo Li, Yifan Zhang, Gao Peng, Jiajun Tang, Kaiwen Zha, Jiefeng Li, Cewu Lu</div>
 <div class="pvenue">
 <p>AAAI Conference on Artificial Intelligence (AAAI), 2022</p>
-<p>[<a href="">paper</a>]</p>
+<p>[<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiOq9qT98yCAxV4plYBHXciCRAQFnoECAkQAQ&url=https%3A%2F%2Fojs.aaai.org%2Findex.php%2FAAAI%2Farticle%2Fview%2F20100%2F19859&usg=AOvVaw1l7XAiND1ASr_WKpOIKIxf&opi=89978449">paper</a>]</p>
 </div>
 </div>
 
