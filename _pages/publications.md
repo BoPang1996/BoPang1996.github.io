@@ -12,6 +12,19 @@ Publications
 =======
 <hr width="100%"/>
 <div class="paper">
+<div class="pimg"> <img src="/img_content/marpro.png" width="200" height="140"></div>
+<div class="ptitle">Markov Progressive Framework, a Universal
+Paradigm for Modeling Long Videos</div>
+<div class="pauthors"> <b>Bo Pang</b>, Gao Peng, Yizhuo Li, Cewu Lu</div>
+<div class="pvenue">
+<p>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024</p>
+<p>[<a href="https://www.computer.org/csdl/journal/tp/5555/01/10596972/1Yw9gFYe80M">paper</a>]
+   </p>
+</div>
+</div>
+
+<hr width="100%"/>
+<div class="paper">
 <div class="pimg"> <img src="/img_content/tricc.png" width="200" height="140"></div>
 <div class="ptitle">Unsupervised 3D Point Cloud Representation Learning by Triangle Constrained
 Contrast for Autonomous Driving</div>
