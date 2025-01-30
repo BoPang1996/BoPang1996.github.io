@@ -28,6 +28,19 @@ Publications
 ======
 <hr width="100%"/>
 <div class="paper">
+<div class="pimg"> <img src="/img_content/IRC.png" width="200" height="140"></div>
+<div class="ptitle">Auto-Pairing Positives through Implicit Relation
+Circulation for Discriminative Self-Learning</div>
+<div class="pauthors"> <b>Bo Pang</b>, Zhenyu Wei, Jingli Lin, Cewu Lu</div>
+<div class="pvenue">
+<p>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024</p>
+<p>[<a href="https://ieeexplore.ieee.org/document/10835191">paper</a>]
+   </p>
+</div>
+</div>
+
+<hr width="100%"/>
+<div class="paper">
 <div class="pimg"> <img src="/img_content/marpro.png" width="200" height="140"></div>
 <div class="ptitle">Markov Progressive Framework, a Universal
 Paradigm for Modeling Long Videos</div>
