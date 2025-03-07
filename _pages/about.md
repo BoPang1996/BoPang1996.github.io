@@ -9,14 +9,16 @@ redirect_from:
 <link rel="stylesheet" type="text/css" href="/assets/css/paper.css" />
 </head>
 
-I am a Ph.D student of [computer science](https://en.wikipedia.org/wiki/Computer_science), [Shanghai Jiao Tong University](https://en.wikipedia.org/wiki/Shanghai_Jiao_Tong_University). 
-I am a member of [MVIGLab](http://mvig.sjtu.edu.cn/) mentored by Pro. [Cewu Lu](http://mvig.sjtu.edu.cn/).
-My research interests are in computer vision, especially in video understanding and unsupervised learning.
+I received my Ph.D degree in the Department of Computer Science at [Shanghai Jiao Tong University](https://en.wikipedia.org/wiki/Shanghai_Jiao_Tong_University) in 2024. 
+I was a member of [MVIGLab](http://mvig.sjtu.edu.cn/) mentored by Pro. [Cewu Lu](http://mvig.sjtu.edu.cn/). Prior to that, I received my Bachelor degree of Computer Science in 2018 from Shanghai Jiao Tong University.
+
+My research interests are in machine learning, especially in video understanding and unsupervised learning.
 
 <!--Now, I'm a research intern at institute of media technology of Huawei Technologies Co Ltd. -->
 
 News
 ======
+* 【2024】Two papers published on PAMI.
 * 【2023.1】Won the "2022 Baidu Scholarship".
 * 【2021.3】Paper "PGT: A Progressive Method for Training Models on Long Videos" is accepted as an oral paper in CVPR-2021.
 * 【2020.6.30】Paper "Complex sequential understanding through the awareness of spatial and temporal concepts" won the World Artifical Intelligence Conference Youth Outstanding Paper Award.
